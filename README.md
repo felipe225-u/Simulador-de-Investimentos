@@ -7,6 +7,30 @@ Este projeto consiste no desenvolvimento de uma ferramenta de **simulação de i
 A ferramenta permite simular cenários de longo prazo, estimar o patrimônio acumulado e calcular uma projeção de dividendos mensais, além de apresentar uma sugestão de distribuição da carteira de acordo com diferentes perfis de investimento.
 
 ---
+## 🖥️ Demonstração
+
+### ⚙️ Configuração da simulação
+
+/Users/felipe_feliciano/Documents/Estudos/portifolio/Excel/imagens/config.png
+
+ A ferramenta permite definir os principais parâmetros utilizados na simulação, como salário, percentual de investimento, aporte mensal,
+período e taxa de rendimento.
+
+### 📈 Simulação de cenários
+
+/Users/felipe_feliciano/Documents/Estudos/portifolio/Excel/imagens/cenario.png
+
+A ferramenta permite analisar diferentes horizontes de investimento, projetando o patrimônio acumulado e os dividendos mensais estimados
+para períodos de 2, 5, 10, 20 e 30 anos.
+
+### 💰 Distribuição da carteira
+
+/Users/felipe_feliciano/Documents/Estudos/portifolio/Excel/imagens/divisao.png
+
+A partir do perfil selecionado, a ferramenta utiliza uma tabela de referência para calcular automaticamente o percentual sugerido e o
+valor destinado a cada categoria de investimento.
+
+---
 
 ## 🎯 Objetivos
 
